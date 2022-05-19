@@ -64,6 +64,8 @@ Se presentan los elementos esenciales que conforman un circuito eléctrico bási
 [![44-46-2.png](https://i.postimg.cc/05ZC2VfV/44-46-2.png)](https://postimg.cc/xqJm6yBm)
 
 ## 4.	VIDEO
+https://youtu.be/O4MvDqmmkFQ
+
 ## 5.	CONCLUCIONES
 -Las unidades de medición SI son de gran importancia ya que se puede identificar cuanto miden los diferentes objetos y de este modo se puede realizar calculo y así poder colocar correctamente su símbolo de medición.
 

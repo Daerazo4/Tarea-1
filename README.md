@@ -47,4 +47,41 @@ Se presentan los elementos esenciales que conforman un circuito eléctrico bási
 
 ### Capitulo 2
 
+[![1-10-2.png](https://i.postimg.cc/L8ydtk2D/1-10-2.png)](https://postimg.cc/0zJHxw6K)
+
+[![12-16-2.png](https://i.postimg.cc/MTVrF12h/12-16-2.png)](https://postimg.cc/CBMNZBKN)
+
+[![18-22-2.png](https://i.postimg.cc/Bb3w9tJt/18-22-2.png)](https://postimg.cc/dkW9GskK)
+
+[![24-28-2.png](https://i.postimg.cc/wx5G55kN/24-28-2.png)](https://postimg.cc/grJsmZQc)
+
+[![30-34-2.png](https://i.postimg.cc/2Sy9fsNd/30-34-2.png)](https://postimg.cc/Mnkm7rTX)
+
+[![36-38-2.png](https://i.postimg.cc/j2vcpX8k/36-38-2.png)](https://postimg.cc/CnBbDjpj)
+
+[![40-42-2.png](https://i.postimg.cc/63XhTSgm/40-42-2.png)](https://postimg.cc/67MZmH9r)
+
+[![44-46-2.png](https://i.postimg.cc/05ZC2VfV/44-46-2.png)](https://postimg.cc/xqJm6yBm)
+
+## 4.	VIDEO
+## 5.	CONCLUCIONES
+-Las unidades de medición SI son de gran importancia ya que se puede identificar cuanto miden los diferentes objetos y de este modo se puede realizar calculo y así poder colocar correctamente su símbolo de medición.
+
+-Los símbolos de medición para se debe representar adecuadamente y así los resultados que se obtenga con cálculos matemáticos 
+se representen con sus unidades correctas
+
+-Los conceptos generales son fundamentales tanto para aplicarlos en formulas como para armar circuitos por ello se debe tener 
+claro cada uno de los elementos que se utiliza y como se puede medir la corriente, voltaje y resistencia que se está aplicando en el circuito
+
+-En conclusión, la ubicación del multímetro, resistencias y todo lo que engloba a los circuitos electrónicos es de suma 
+importancia para obtener los valores correctos del circuito y así no hacer un corto o fallar dentro del laboratorio. 
+
+## 6.	Bibliografía
+- FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007.
+
+
+
+
+
+
 

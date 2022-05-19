@@ -33,3 +33,18 @@ Se presentan los elementos esenciales que conforman un circuito eléctrico bási
 [![Mapa-mental-3.png](https://i.postimg.cc/tTC690gN/Mapa-mental-3.png)](https://postimg.cc/DWH0cMLS)
 
 ## 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS 
+### Capitulo 1
+
+[![1-8.png](https://i.postimg.cc/P5Pbp3BM/1-8.png)](https://postimg.cc/sMCGbcfB)
+
+[![9-14.png](https://i.postimg.cc/76DTVmQd/9-14.png)](https://postimg.cc/hJyj4bn1)
+
+[![16-20.png](https://i.postimg.cc/mDw16CvD/16-20.png)](https://postimg.cc/G84p48hw)
+
+[![20-28.png](https://i.postimg.cc/cCkgdZ4G/20-28.png)](https://postimg.cc/64R5hkvM)
+
+[![30.png](https://i.postimg.cc/ZYwy8PPs/30.png)](https://postimg.cc/6TG3wvmC)
+
+### Capitulo 2
+
+
